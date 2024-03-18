@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hey Get Up</string>
+    <string name="cat">cat</string>
+    <string name="room">\n</string>
+    <string name="background" />
+    <string name="it">IT</string>
+    <string name="en">EN</string>
+    <string name="ru">RU</string>
+    <string name="change_your_language">CHANGE YOUR LANGUAGE</string>
+    <string name="natasha">Natasha</string>
+    <string name="go">GO</string>
+</resources>
